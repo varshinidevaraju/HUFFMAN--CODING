@@ -19,6 +19,9 @@ Print the Huffman codes for each character in the input string.
 
 ### Program:
 ```
+NAME:VARSHINI D
+REG NO:212223230234
+
 import heapq
 from collections import defaultdict
 string = input("Enter a string to encode: ")
